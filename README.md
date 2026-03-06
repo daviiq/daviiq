@@ -22,21 +22,20 @@
 
 ## 📊 Estatísticas
 
-![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviiq&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviiq&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&v=1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviiq&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviiq&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviiq&layout=compact&theme=chartreuse-dark&v=1)
 
 ---
 
 ## 🐍 Snake das contribuições
 
-![Snake animation](https://github.com/daviiq/daviiq/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/daviiq/daviiq/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Repositórios Destacados
 
-[![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark)](https://github.com/daviiq/Jogo-da-Organizacao)
-
+[![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Jogo-da-Organizacao)

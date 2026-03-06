@@ -44,4 +44,4 @@
 
 ## 🔗 Repositórios Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark)](https://github.com/daviiq/Jogo-da-Organizacao)
+[![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark)](https://github.com/daviiq/Jogo-da-Organizacao)

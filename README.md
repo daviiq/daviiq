@@ -26,11 +26,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviiq&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviiq&layout=compact&theme=chartreuse-dark&v=1)
-
 ---
 
 ## 🔗 Repositórios Destacados
 
 [![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Jogo-da-Organizacao)
+
 

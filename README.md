@@ -20,12 +20,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=daviiq&theme=matrix&no-frame=true&margin-w=10)
-
----
-
 ## 📊 Estatísticas
 
 ![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviiq&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
@@ -45,3 +39,4 @@
 ## 🔗 Repositórios Destacados
 
 [![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark)](https://github.com/daviiq/Jogo-da-Organizacao)
+

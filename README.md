@@ -30,12 +30,7 @@
 
 ---
 
-## 🐍 Snake das contribuições
-
-![Snake animation](https://raw.githubusercontent.com/daviiq/daviiq/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔗 Repositórios Destacados
 
 [![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Jogo-da-Organizacao)
+

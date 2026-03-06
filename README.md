@@ -5,6 +5,8 @@
 - 📚 **Fase Atual:** Estou na 3ª fase do curso, explorando conceitos fundamentais de programação, banco de dados, estrutura de dados e desenvolvimento web.
 - ⚡ **Fato divertido:** Gosto de jogos e sou fã da cultura japonesa
 
+---
+
 ## Tecnologias e Ferramentas 💻
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,24 +18,30 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Redes Sociais 🌐
-Conecte-se comigo:
+---
 
+## 🏆 GitHub Trophies
 
+![trophy](https://github-profile-trophy.vercel.app/?username=daviiq&theme=matrix&no-frame=true&margin-w=10)
 
 ---
 
+## 📊 Estatísticas
 
 ![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviiq&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviiq&theme=chartreuse-dark)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviiq&layout=compact&theme=chartreuse-dark)
 
 ---
 
+## 🐍 Snake das contribuições
 
+![Snake animation](https://github.com/daviiq/daviiq/blob/output/github-contribution-grid-snake.svg)
 
-##
+---
+
 ## 🔗 Repositórios Destacados
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark)](https://github.com/daviiq/Jogo-da-Organizacao)

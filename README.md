@@ -31,5 +31,7 @@
 ## 🔗 Repositórios Destacados
 
 [![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Jogo-da-Organizacao)
+[![IA para ler Emails](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=IA-Leitura-de-Email&theme=chartreuse-dark&v=1)](https://github.com/IA-Leitura-de-Email/IA-para-leitura-de-Emails)
+
 
 

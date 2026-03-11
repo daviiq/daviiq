@@ -36,5 +36,3 @@
 
 [![Site Daisy Américo](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Site-Daisy-Americo&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Site-Daisy-Americo)
 
-[![Sistema Bancário DaviBank](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Sistema_Bancario_DaviBank&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Sistema_Bancario_DaviBank)
-

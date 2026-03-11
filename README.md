@@ -31,7 +31,10 @@
 ## 🔗 Repositórios Destacados
 
 [![Jogo da Organização](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Jogo-da-Organizacao&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Jogo-da-Organizacao)
-[![IA para ler Emails](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=IA-Leitura-de-Email&theme=chartreuse-dark&v=1)](https://github.com/IA-Leitura-de-Email/IA-para-leitura-de-Emails)
 
+[![IA para leitura de Emails](https://github-readme-stats.vercel.app/api/pin/?username=IA-Leitura-de-Email&repo=IA-para-leitura-de-Emails&theme=chartreuse-dark&v=1)](https://github.com/IA-Leitura-de-Email/IA-para-leitura-de-Emails)
 
+[![Site Daisy Américo](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Site-Daisy-Americo&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Site-Daisy-Americo)
+
+[![Sistema Bancário DaviBank](https://github-readme-stats.vercel.app/api/pin/?username=daviiq&repo=Sistema_Bancario_DaviBank&theme=chartreuse-dark&v=1)](https://github.com/daviiq/Sistema_Bancario_DaviBank)
 

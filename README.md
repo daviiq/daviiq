@@ -2,9 +2,9 @@
 
 ## Sobre mim
 - 🎓 **Estudante de:** Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina (IFSC).
-- 📚 **Fase Atual:** Estou na 3ª fase do curso, explorando conceitos fundamentais de programação, banco de dados, estrutura de dados e desenvolvimento web.
-- ⚡ **Fato divertido:** Gosto de jogos e sou fã da cultura japonesa
-
+- 📚 **Estudando no momento:** Estrutura de dados + React + Conceitos de Engenharia de Software II 
+- ⚡ **Curiosidade:** Gosto de jogos e sou fã da cultura japonesa
+  
 ---
 
 ## Tecnologias e Ferramentas 💻
@@ -13,6 +13,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
